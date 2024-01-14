@@ -1,5 +1,6 @@
-### Hi there 👋
+### Yooo 👋
 
+🔭 I’m currently working on a productivity app to find focus for a fulfilling life.
 <!--
 **Brotyx/Brotyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
